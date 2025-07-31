@@ -238,7 +238,7 @@ img {
 
 .home__title {
   font: var(--font-regular) var(--biggest-font-size) var(--second-font);
-  line-height: 100%;
+  line-height: 75%;
   margin-bottom: 1rem;
   text-shadow: var(--shadow-text);
 }
@@ -518,6 +518,7 @@ img {
   filter: var(--shadow-img);
   transition: transform .4s;
 }
+
 
 .products__subtitle {
   font-size: var(--small-font-size);
